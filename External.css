@@ -1,0 +1,25 @@
+/* We can change the color to how we want it */
+.nav{
+    background: black;
+    color: rgb(255,215,0);
+    padding: 5px;
+    font-size: medium;
+    display: flex;
+    height: 70px;
+}
+/* might need to fix */
+h1{
+    margin: 10px;
+}
+ul{
+    margin: 30px;
+    padding: 10;
+}
+li{
+    display: inline-block;
+    margin-right: 20px;
+}
+a{
+    color: rgb(255,215,0);
+}
+/* Resize for different devices */

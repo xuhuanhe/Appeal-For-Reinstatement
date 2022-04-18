@@ -1,0 +1,46 @@
+{
+	"folders": [
+		{
+			"path": "C:\\Users\\18506\\OneDrive\\桌面\\js-basic"
+		},
+		{
+			"path": "C:\\Users\\18506\\OneDrive\\桌面\\2020falls\\CS355\\4f5464f80fb8c687bac647ef49573e25-fccc5a5d84d963dadc51c2faaff729df3626c8a4"
+		},
+		{
+			"path": "c:\\Users\\18506\\OneDrive\\桌面\\2020falls\\CS355\\asynchronous-programming-master"
+		},
+		{
+			"path": "c:\\Users\\18506\\OneDrive\\桌面\\01-asynchronous-programming (1)"
+		},
+		{
+			"path": "c:\\Users\\18506\\Downloads\\observer-pattern-main"
+		},
+		{
+			"path": "c:\\Users\\18506\\OneDrive\\桌面\\365\\project"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "c:\\Users\\18506\\OneDrive\\桌面\\phpProject"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "js-basic",
+		"git.ignoreLimitWarning": true
+	},
+	"launch": {
+		"version": "0.2.0",
+		"configurations": [
+			{
+				"type": "node",
+				"request": "launch",
+				"name": "Launch Program",
+				"skipFiles": [
+					"<node_internals>/**"
+				],
+				"program": "${file}"
+			}
+		]
+	}
+}
